@@ -34,3 +34,17 @@ https://github.com/PandelisZ/cv
 With cover letter
 https://github.com/ajn123/CV
 
+## Others
+
+* Lista de libros https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-es.md
+
+* Libros de JavaScript (https://github.com/getify/You-Dont-Know-JS) 
+* Relacion de listas https://github.com/sindresorhus/awesome)
+
+* Awesome Falsehood (https://github.com/kdeldycke/awesome-falsehood#dates-and-time)
+* Every Programmer Should Know  (https://github.com/mr-mig/every-programmer-should-know)
+
+* Markdown Here  (https://github.com/adam-p/markdown-here)
+* REgular Expression 
+   * (https://github.com/regexhq)
+   * (learn-regex . https://github.com/zeeshanu/learn-regex)
